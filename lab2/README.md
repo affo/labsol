@@ -1,1 +1,2 @@
-Le soluzioni di questo laboratorio verranno pubblicate __dopo la sessione del 5/11/2015__.
+Le soluzioni di questo laboratorio verranno pubblicate poco prima della 
+sessione di laboratorio numero 3 della squadra 2 del __12/11/2015__.
