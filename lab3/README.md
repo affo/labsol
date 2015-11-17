@@ -1,5 +1,3 @@
-Le soluzioni di questo laboratorio verranno pubblicate intorno al __09/12/2015__.
-
 ## Esempio sulle Matrici
 Questo programma acquisisce una matrice e ne stampa la trasposta:
 
